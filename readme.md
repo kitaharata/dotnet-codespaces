@@ -10,16 +10,16 @@ Everything you do here is contained within this one codespace. There is no repos
 
 ### Run Options
 
-[![Open in GitHub Codespaces](https://img.shields.io/static/v1?style=for-the-badge&label=GitHub+Codespaces&message=Open&color=lightgrey&logo=github)](https://codespaces.new/github/dotnet-codespaces)
-[![Open in Dev Container](https://img.shields.io/static/v1?style=for-the-badge&label=Dev+Container&message=Open&color=blue&logo=visualstudiocode)](https://vscode.dev/redirect?url=vscode://ms-vscode-remote.remote-containers/cloneInVolume?url=https://github.com/github/dotnet-codespaces)
+[![Open in GitHub Codespaces](https://img.shields.io/static/v1?style=for-the-badge&label=GitHub+Codespaces&message=Open&color=lightgrey&logo=github)](https://codespaces.new/kitaharata/dotnet-codespaces)
+[![Open in Dev Container](https://img.shields.io/static/v1?style=for-the-badge&label=Dev+Container&message=Open&color=blue&logo=visualstudiocode)](https://vscode.dev/redirect?url=vscode://ms-vscode-remote.remote-containers/cloneInVolume?url=https://github.com/kitaharata/dotnet-codespaces)
 
 You can also run this repository locally by following these instructions: 
-1. Clone the repo to your local machine `git clone https://github.com/bradygaster/dotnet-codespace`
+1. Clone the repo to your local machine `git clone https://github.com/kitaharata/dotnet-codespaces`
 1. Open repo in VS Code
 
 ## Getting started
 
-1. **📤 One-click setup**: [Open a new Codespace](https://codespaces.new/github/dotnet-codespaces), giving you a fully configured cloud developer environment.
+1. **📤 One-click setup**: [Open a new Codespace](https://codespaces.new/kitaharata/dotnet-codespaces), giving you a fully configured cloud developer environment.
 2. **▶️ Run all, one-click again**: Use VS Code's built-in *Run* command and open the forwarded ports *8080* and *8081* in your browser. 
 
 ![](images/RunAll.png)
